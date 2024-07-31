@@ -1,6 +1,6 @@
 Basic CNN model using TensorFlow and Keras to classify images from the CIFAR-10 dataset.
 
-\Key Points
+<b>Key Points</b>
 Import necessary libraries: TensorFlow for numerical computations and Keras for building the model.
 Load and preprocess data: Normalize pixel values and convert labels to categorical format.
 Create the model: Define convolutional, pooling, flattening, and dense layers.
